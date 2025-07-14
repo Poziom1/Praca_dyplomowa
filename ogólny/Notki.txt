@@ -1,0 +1,72 @@
+18.12 - Dialogi w grach (z perspektywy ucha)
+
+Jakie rodzaje nagrań
+czy warto mieć dialogo udźwiękowione
+Droga produkcji
+
+
+Podział:
+Dialog - Typ dubbingu
+lektor - narrator
+Gwary - odgłosy tłumu
+Barkes\Emotes - odkłosy różnorakie
+Komentarze w tle - teksty które dodają kolorytu całości
+
+
+
+Czy warto mieć udźwiękowione dialogi?
+
+Zalety
+Podnosi prestiż
+Gracz chce grać a nie czytać
+Dostępność
+
+Wady
+Dodatkowy koszt i czas
+Zwykle łatwiej wybrać tekst niż dubbing
+Inny designing gry
+
+
+
+Jak przebiega proces proces tworzenia dialogów w grach
+
+Tekst źródłowy (wychodzi):
+Głos
+Napisy
+Animacja
+
+Dialogowy Pipeline
+1. Przygotowanie
+A. Planowanie
+B. Pisanie scenariusza
+C. Casting
+D. Testy
+
+2. Implementacja
+A. Tekst
+
+3. Audio
+A. Realizacja nagrań
+B. Montaż i Sound Design
+C. Tekst
+
+4. Lokalizacja
+A. Tekst
+
+
+
+Prototypowanie
+
+Rozmieszczenie Dialogów z użytkiem text to speech
+użycie placeholderów dialogów
+testowanie placementów
+Przygotowanie pre wizualizacji
+Fail test
+
+
+
+Montaż i Sound Design
+1. Przycinanie, pozybywanie się ciszy i zachowanie tępa
+2. Czyszczenie nagrań (szumy,mlaski,artefakty)
+3. Zachowanie czytelności i stałości w brzmieniu, w zglendem reszty dialogów
+4. 
